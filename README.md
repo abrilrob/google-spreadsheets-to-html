@@ -9,7 +9,7 @@ Usando el código export-to-html-code.js es muy sencillo y con unos pequeños ca
 Tenemos un listado de colaboradores y quiero tener una página de agradecimientos. 
 
 Primero creo una hoja en drive. 
-![Hoja con los colaboradores](img_problema_hoja.png)
+![Hoja con los colaboradores](images/img_problema_hoja.png)
 
 Y necesitamos generar código hml con la lista de los colboradores.
 
@@ -26,12 +26,12 @@ Añadir el script export-to-html-code.js a la hoja.
 Pasos:
 * En el menú pulsar en "Herramientas/Editor de secuencia de comandos".
 * Copia y pega el código.
-  ![Editor de còdigo](img_solucion_codigo.png)
+  ![Editor de còdigo](images/img_solucion_codigo.png)
 * Guarda y refresca la hoja. 
 * Mostrará un mensaje de seguridad, para poder continuar has de aceptarlo.
-  ![Autorizar la ejecución](img_solucion_autorizar.png)
+  ![Autorizar la ejecución](images/img_solucion_autorizar.png)
 * Ahora verás un nuevo menú con las dos opciones que hemos configurado.
-  ![Autorizar la ejecución](img_solucion_menu.png)
+  ![Autorizar la ejecución](images/img_solucion_menu.png)
 
 
 
